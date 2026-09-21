@@ -1,0 +1,9 @@
+nav#max-nav {
+background-color: rgb(255, 174, 111);
+}
+#main-nav a {
+    padding: 1em;
+display: inline-block;
+color: beige;
+font-size: 1.5rem;
+}
